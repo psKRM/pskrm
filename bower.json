@@ -1,0 +1,21 @@
+{
+  "name": "pskrm",
+  "description": "Testing project",
+  "main": "index.js",
+  "authors": [
+    "pskrm"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/pskrm/smp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  }
+}
